@@ -179,8 +179,9 @@ h2.site33{
     font-size: 25px;
     color: rgb(204, 0, 5);
 }
-img.img3{
+img.padrao3{
     display: inline-block;
+    margin-left: 500px;
 }
 #box7{
     width:150px ;
@@ -247,4 +248,66 @@ img.img33{
 }
 p.site5{
     width: 400px;
+}
+img.padrao1{
+    margin-left: 450px;
+}
+img.padrao2{
+    margin-left: 420px;
+}
+img.padrao4{
+    margin-left: 420px;
+}
+img.padrao5{
+    margin-left: 450px;
+}
+h3.site5{
+    color: rgb(204, 0, 5);
+}
+table{
+    border: 2px;
+    border-style: solid black;
+    border-width: 10px;
+    width: 600px
+}
+tr{
+    text-align: justify;
+}
+th{
+    text-align: center;
+}
+td{
+    border-style: solid;
+    border-width: 1px;
+	border-color: black;
+	width: 300;
+    text-align: center;
+}
+td.pesoab{
+    background-color: rgb(233, 0, 4);
+}
+td.pesoid{
+    background-color: rgb(0, 233, 12);
+}
+td.pesoac{
+    background-color: rgb(230, 215, 5);
+}
+td.ob1{
+    background-color:rgb(247, 80, 2);
+}
+td.ob2{
+    background-color: rgb(252, 31, 15);
+}
+td.ob3{
+    background-color: rgb(233, 0, 4);
+}
+input.st5{
+    border-radius: 15px;
+    border-width: 2px;
+    background-color: rgba(255, 255, 255, 0);
+    width: 70px;
+    height: 60px;
+    border-color: rgb(255, 0, 0);
+    text-align: center;
+    border-style: solid;
 }
