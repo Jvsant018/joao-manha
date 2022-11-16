@@ -151,9 +151,9 @@ body{
 
 }
 h3.texto3{
-    width: 700px;
+    width: 600px;
     font-family: candara;
-    color: black;
+    font-size: 18px;
    
 }
 h2.set5{
@@ -181,7 +181,7 @@ h2.site33{
 }
 img.padrao3{
     display: inline-block;
-    margin-left: 500px;
+    margin-left: 450px;
 }
 #box7{
     width:150px ;
@@ -216,10 +216,10 @@ h3.set0{
     ;
 }
 img.site00{
-    margin-left: 130px;
+    display: inline-block;
 }
 img.site000{
-    margin-left: 400px;
+    display: inline-block;
 }
 h3.set0000{
     font-family: candara;
@@ -259,7 +259,7 @@ img.padrao4{
     margin-left: 440px;
 }
 img.padrao5{
-    margin-left: 450px;
+    margin-left: 439px;
 }
 h3.site5{
     color: rgb(204, 0, 5);
@@ -354,4 +354,20 @@ h2.peri4444{
 }
 p.dd4{
     font-size: 17px;
+}
+h3.dd5{
+    font-family: georgia;
+    font-size: 15px;
+    color: rgb(37, 35, 35);
+}
+h2.dd55{
+    font-family: georgia;
+    font-size: 15px;
+    color: rgb(37, 35, 35);
+}
+h2.dd555{
+    font-family: georgia;
+    font-size: 15px;
+    color: rgb(37, 35, 35);
+    width: 300px;
 }
