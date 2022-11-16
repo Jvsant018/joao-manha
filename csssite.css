@@ -123,7 +123,7 @@ h3.formatacao42{
     background-color: rgb(204, 0, 5);
     position: fixed;
     left: 20px;
-    top: 120px;
+    top: 90px;
     
 }
 h2.site5{
@@ -256,7 +256,7 @@ img.padrao2{
     margin-left: 420px;
 }
 img.padrao4{
-    margin-left: 420px;
+    margin-left: 440px;
 }
 img.padrao5{
     margin-left: 450px;
@@ -310,4 +310,48 @@ input.st5{
     border-color: rgb(255, 0, 0);
     text-align: center;
     border-style: solid;
+}
+h3.set44{
+    font-family: candara;
+    width: 460px;
+    font-size: 16px;
+}
+font.set4{
+    color: rgb(204, 0, 5);
+    font-size: 20px;
+    font-family: impact;
+}
+h2.peri4{
+    color: rgb(204, 0, 5);
+    font-size: 28px;
+    font-family: impact
+}
+p.pd4{
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3.peri44{
+    color: rgb(204, 0, 5);
+    font-size: 19px;
+    font-family: impact;
+}
+h2.peri444{
+    font-size: 20px;
+    font-family: impact;
+    width: 300px;
+    color: rgb(204, 0, 5);
+}
+h3.st44{
+    font-family: candara;
+    font-size: 17px;
+    margin-left: 200px;
+}
+h2.peri4444{
+    font-size: 20px;
+    font-family: impact;
+    width: 350px;
+    color: rgb(204, 0, 5);
+}
+p.dd4{
+    font-size: 17px;
 }
