@@ -304,12 +304,13 @@ td.ob3{
 input.st5{
     border-radius: 15px;
     border-width: 2px;
-    background-color: rgba(255, 255, 255, 0);
+    background-color: rgba(255, 255, 255);
     width: 70px;
     height: 60px;
     border-color: rgb(255, 0, 0);
     text-align: center;
     border-style: solid;
+    margin-right: 50px;
 }
 h3.set44{
     font-family: candara;
@@ -370,4 +371,45 @@ h2.dd555{
     font-size: 15px;
     color: rgb(37, 35, 35);
     width: 300px;
+}
+h1.ft5{
+    margin-block-start: 0em;
+    color: white;
+    font-family: candara;
+}
+h2.ft5{
+    color: #D4D4D2;
+}
+.input_area{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+input{
+    height: 1.5em;
+}
+.conteiner2{
+    background-color:#1C1C1C;
+    display: inline-flex;
+    padding: 1.5em;
+    border-radius: 1.5em;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    height: 3em;
+    width: 100%;
+    background-color: rgb(204, 0, 5);
+    border: none;
+    color: white;
+    border-radius: 1.5em;
+    font-size: 16px;
+}
+button:hover{
+    cursor: pointer;
+}
+.area{
+    display: flex;
+    justify-content: center;
 }
