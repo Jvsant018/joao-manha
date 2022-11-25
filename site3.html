@@ -4,6 +4,8 @@
 <title> BI-SET & TRI-SET </title> 
 <link rel="stylesheet" type="text/css" href="csssite.css">
 <link rel="shortcurt icon" href="icone.png">
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head> 
 <body topmargin = 0 leftmargin = 100>
 	
@@ -70,9 +72,38 @@
 			*Fly maquina <br>
 		</h3>
 		<center>
-		<img class="site00" src="https://docs.google.com/uc?id=1prRedxqMwqpwRu0WvSzML_wwrncnPPCg" >
-		<img class="site00" src="https://docs.google.com/uc?id=12nymWL7aQaTd7r5CjhnofhVgsDC8auKR" >
-		<img class="site000" src="https://docs.google.com/uc?id=1o92rPf-9UpaG7-KmE2xUmpNSpjjfbzM3" >
+		<img class="site00" src="" >
+		<img class="site00" src="" >
+		<img class="site000" src="" >
+        <!--Carrossel de Imagens-->
+<div class="carrousel">
+    <div class="cell"><img src="https://docs.google.com/uc?id=1prRedxqMwqpwRu0WvSzML_wwrncnPPCg">
+        <div class="overlay">
+            <h2 class="text">Supino inclinado com a Barra</h2>
+        </div>
+    </div>
+    <div class="cell"><img src="https://docs.google.com/uc?id=12nymWL7aQaTd7r5CjhnofhVgsDC8auKR">
+        <div class="overlay">
+            <h2 class="text">Supino reto com halteres</h2>
+        </div>
+    </div>
+    <div class="cell"><img src="https://docs.google.com/uc?id=1o92rPf-9UpaG7-KmE2xUmpNSpjjfbzM3">
+        <div class="overlay">
+            <h2 class="text">Fly maquina</h2>
+        </div>
+    </div>
+</div>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+<script type="text/javascript">
+    $('.carrousel').flickity({
+    // options
+    cellAlign: 'left',
+    wrapAround:true,
+    freeScroll: true
+});
+</script>
+<!--Final do Carrossel-->
+
 	</center>
 	</div>
 		<br>
