@@ -14,13 +14,16 @@ function Calculo(){
 	else if(resultado<29.9){
 		window.alert("Você está com sobrepeso, Procure se exercitar 😉")
 	}
-	else if(resultado > 30.0 or <34.9){
+	else if(resultado > 30.0 || resultado <34.9){
 		window.alert("Você está na Obesidade I, Procure auxilio de um nutricionista 😉")
 	}
-	else if(resultado > 35.0 or <39.9){
+	else if(resultado > 35.0 || resultado< 39.9){
 		window.alert("Você está na Obesidade II, Procure auxulio de um nutricionista e experimente se exercitar 😮")
 	}
 	else if(resultado > 40.0){
 		window.alert("Você está na Obesidade III,Procure a ajuda de um medico 😷")
+	}
+	else{
+		alert("MINHA VÓ TÁ MALUCA!!!!!")
 	}
 }

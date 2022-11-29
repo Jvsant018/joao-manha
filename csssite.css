@@ -170,7 +170,7 @@ p.site30{
 }
 .container{
     display: flex;
-    text-align: 
+    margin-left: 180px; 
 }
 h2.site33{
     margin-left: 200px;
@@ -416,8 +416,8 @@ button:hover{
 .cell{
     position: relative;
     margin: 0 15;
-    width: 550px;
-    height: 540px;
+    width: 430px;
+    height: 440px;
     overflow: hidden;
     border-radius: 8px;
 }
@@ -451,7 +451,24 @@ h2.text{
     opacity: 1;
 }
 .carrousel{
-    margin-left: 100px;
+    margin-left: 80px;
     width: 100%;
+    display: flex;
 
+}
+img.padrao33{
+    width: 420px;
+    height: 430px;
+}
+div.rodape{
+    background-color: rgb(204, 0, 5);
+}
+h2.rodape{
+    color: white;
+}
+h3.rodape1{
+    color: white;
+}
+p.rodape2{
+    color: white;
 }
