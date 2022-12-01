@@ -119,12 +119,11 @@ h3.formatacao42{
 }
 #box6{
     width:150px ;
-    height: 500px;
+    height: 1000px;
     background-color: rgb(204, 0, 5);
-    position: fixed;
+    position: absolute;
     left: 20px;
     top: 17px;
-    
 }
 h2.site5{
     font-family: candara;
@@ -460,20 +459,118 @@ img.padrao33{
     width: 420px;
     height: 430px;
 }
-div.rodape{
+h2.rodape{
+    color: white;
+    margin-left: 120px;
+    font-family: verdana;
+    font-size: 18px;
+}
+h3.rodape1{
+    color: white;
+    margin-left: 100px;
+    font-size: 15px;
+    
+}
+p.rodape2{
+    color: white;
+    width: 550px;
+    text-align: center;
+}
+img.rodape{
+    width: 180px;
+    height: 180px;
+    margin-left: 100px;
+}
+div.imgrodape{
+    display: inline-block;
+}
+.prodape{
+    display: inline-block;
+   
+}
+.trodape{
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 0%;
+}
+.rodape1{
+    margin-left: 100px;
+}
+.insta{
+    display: flex;
+}
+#box1{
+    width:150px ;
+    height: 600px;
+    background-color: rgb(204, 0, 5);
+    position: absolute;
+    left: 20px;
+    top: 17px;
+}
+#box2{
+    width:150px ;
+    height: 2000px;
+    background-color: rgb(204, 0, 5);
+    position: absolute;
+    left: 20px;
+    top: 17px;
+}
+#box3{
+    width:150px ;
+    height: 2000px;
+    background-color: rgb(204, 0, 5);
+    position: absolute;
+    left: 20px;
+    top: 17px;
+}
+#box44{
+    width:150px ;
+    height: 6700px;
+    background-color: rgb(204, 0, 5);
+    position: absolute;
+    left: 20px;
+    top: 17px;
+}
+#box5{
+    width:150px ;
+    height: 1300px;
+    background-color: rgb(204, 0, 5);
+    position: absolute;
+    left: 20px;
+    top: 17px;
+}
+div.rodape1{
     background-color: rgb(204, 0, 5);
     width: 1585px;
     position: absolute;
     margin-left: -100px;
     margin-bottom: -100px;
 }
-h2.rodape{
-    color: white;
+div.rodape2{
+    background-color: rgb(204, 0, 5);
+    width: 1585px;
+    position: absolute;
+    margin-left: -200px;
+    margin-bottom: -100px;
 }
-h3.rodape1{
-    color: white;
+div.rodape3{
+    background-color: rgb(204, 0, 5);
+    width: 1585px;
+    position: absolute;
+    margin-left: -100px;
+    margin-bottom: -100px;
 }
-p.rodape2{
-    color: white;
-    width: 450px;
+div.rodape4{
+    background-color: rgb(204, 0, 5);
+    width: 1585px;
+    position: absolute;
+    margin-left: -200px;
+    margin-bottom: -100px;
+}
+div.rodape5{
+    background-color: rgb(204, 0, 5);
+    width: 1585px;
+    position: absolute;
+    margin-left: -100px;
+    margin-bottom: -100px;
 }
