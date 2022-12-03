@@ -101,7 +101,7 @@ font.st42{
     font-size: 80px;
     margin-top: 2px;
 }
-#box5{
+#box55{
     width:189px ;
     height: 7px;
     background-color: rgb(204, 0, 5);
@@ -132,7 +132,7 @@ h2.site5{
     text-align: center;
 }
 #box8{
-    margin-left: 90px;
+    margin-left: 110px;
 }
 #box9{
     background-color:rgb(204, 0, 5);
@@ -525,9 +525,9 @@ div.imgrodape{
 }
 #box44{
     width:150px ;
-    height: 6700px;
+    height: 2000px;
     background-color: rgb(204, 0, 5);
-    position: absolute;
+    position: fixed;
     left: 20px;
     top: 17px;
 }
