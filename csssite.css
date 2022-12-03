@@ -574,3 +574,7 @@ div.rodape5{
     margin-left: -100px;
     margin-bottom: -100px;
 }
+textarea{
+    width: 100%;
+    margin-top: 2em;
+}
